@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
-<h3 align="center">Data Scientist , Ai Enthusiast</h3>
+<h3 align="center">Data Science , Ai Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjsingh64&label=Profile%20views&color=0e75b6&style=flat" alt="rjsingh64" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/singh64_k" target="blank"><img src="https://img.shields.io/twitter/follow/singh64_k?logo=twitter&style=for-the-badge" alt="singh64_k" /></a> </p>
 
@@ -11,15 +9,11 @@
 
 - 🌱 I’m currently learning **Data Science , Deep learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RJSINGH64](https://github.com/RJSINGH64)
-
-- 📝 I regularly post on [https://www.linkedin.com/in/rajat-singh-292124240](https://www.linkedin.com/in/rajat-singh-292124240)
+  - 📝 I regularly post on [https://www.linkedin.com/in/rajat-singh-292124240](https://www.linkedin.com/in/rajat-singh-292124240)
 
 - 💬 Ask me about **Python , Machine Learning and Statistics**
 
 - 📫 How to reach me **rajat.k.singh64@gmail.com**
-
-- 📄 Know about my experiences [Data Science Intern at Unified Mentor](Data Science Intern at Unified Mentor)
 
 - ⚡ Fun fact **I am part-time Youtuber**
 

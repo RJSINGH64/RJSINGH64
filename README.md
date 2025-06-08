@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science , Deep learning and Computer Vision**
 
+- [![View Resume](https://img.shields.io/badge/%20My%20Resume-Google%20Drive-orange?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LxzlnAfqEnY_Db4sr4Kgynqc0p-sodqn/view?usp=sharing)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-singh-292124240)
 
 - 💬 Ask me about **Python , Machine Learning and Statistics**

@@ -56,7 +56,9 @@
 <a href="https://www.tableau.com/" style="display:inline-block;"><img src="https://miro.medium.com/v2/resize:fit:1400/0*UcvDXUMq8onpVRZO.png" width="40"/></a>&nbsp;
 <a href="https://powerbi.microsoft.com/" style="display:inline-block;"><img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68a7e4c9e3b113990da_6442b779e4e03d774e078fa6_power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" style="display:inline-block;"><img src="https://w7.pngwing.com/pngs/616/284/png-transparent-adobe-premiere-pro-macos-bigsur-icon-thumbnail.png" width="40"/></a>&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html" style="display:inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" width="40"/></a>&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+</a>&nbsp;
 <a href="https://jupyter.org/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/></a>&nbsp;
 <a href="https://colab.research.google.com/" style="display:inline-block;"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/></a>
 </p>
@@ -69,7 +71,7 @@
   <img src="https://streak-stats.demolab.com/?user=rajatsingh64" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
 <h2 style="text-align: center; font-size: 24px;">🚀 Data Science Roadmap</h2>

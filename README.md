@@ -65,7 +65,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsingh64&show_icons=true&locale=en" alt="rajatsingh64" /></p>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com/?user=rajatsingh64" alt="GitHub Streak" />
 </div>
 

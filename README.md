@@ -30,61 +30,46 @@
 <a href="https://discord.gg/rjsingh6602"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-</tr>
-
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></td>
-<td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
-</tr>
-
-<tr>
-<td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/></td>
-<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="40"/></td>
-<td><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/></td>
-</tr>
-
-<tr>
-<td><img src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" width="40"/></td>
-<td><img src="https://i.pinimg.com/736x/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg" width="40"/></td>
-<td><img src="https://miro.medium.com/v2/resize:fit:1400/0*UcvDXUMq8onpVRZO.png" width="40"/></td>
-<td><img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68a7e4c9e3b113990da_6442b779e4e03d774e078fa6_power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="40"/></td>
-<td><img src="https://w7.pngwing.com/pngs/616/284/png-transparent-adobe-premiere-pro-macos-bigsur-icon-thumbnail.png" width="40"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" width="40"/></td>
-</tr>
-
-<tr>
-<td><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/></td>
-<td><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/></td>
-</tr>
-</table>
+<p align="left">
+<a href="https://www.python.org" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.git-scm.com/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
+<a href="https://www.docker.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://www.w3.org/html/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/css/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://www.mongodb.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://www.mysql.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://www.oracle.com/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" style="display:inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>&nbsp;
+<a href="https://postman.com" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>&nbsp;
+<a href="https://aws.amazon.com" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>&nbsp;
+<a href="https://azure.microsoft.com" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>&nbsp;
+<a href="https://cloud.google.com" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>&nbsp;
+<a href="https://pytorch.org/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>&nbsp;
+<a href="https://www.tensorflow.org" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>&nbsp;
+<a href="https://code.visualstudio.com" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/></a>&nbsp;
+<a href="https://keras.io" style="display:inline-block;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" width="40"/></a>&nbsp;
+<a href="https://streamlit.io" style="display:inline-block;"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/></a>&nbsp;
+<a href="https://www.jetbrains.com/pycharm/" style="display:inline-block;"><img src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" width="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/microsoft-365" style="display:inline-block;"><img src="https://i.pinimg.com/736x/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg" width="40"/></a>&nbsp;
+<a href="https://www.tableau.com/" style="display:inline-block;"><img src="https://miro.medium.com/v2/resize:fit:1400/0*UcvDXUMq8onpVRZO.png" width="40"/></a>&nbsp;
+<a href="https://powerbi.microsoft.com/" style="display:inline-block;"><img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68a7e4c9e3b113990da_6442b779e4e03d774e078fa6_power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="40"/></a>&nbsp;
+<a href="https://www.adobe.com/products/premiere.html" style="display:inline-block;"><img src="https://w7.pngwing.com/pngs/616/284/png-transparent-adobe-premiere-pro-macos-bigsur-icon-thumbnail.png" width="40"/></a>&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" style="display:inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" width="40"/></a>&nbsp;
+<a href="https://jupyter.org/" style="display:inline-block;"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/></a>&nbsp;
+<a href="https://colab.research.google.com/" style="display:inline-block;"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsingh64&show_icons=true&locale=en&layout=compact" alt="rajatsingh64" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsingh64&show_icons=true&locale=en" alt="rajatsingh64" /></p>
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=rajatsingh64" alt="GitHub Streak" />
 </div>
 
-<div align="left">
+<div align="center">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
 <h2 style="text-align: center; font-size: 24px;">🚀 Data Science Roadmap</h2>

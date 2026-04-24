@@ -80,11 +80,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsingh64&show_icons=true&locale=en" alt="rajatsingh64" /></p>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com/?user=rajatsingh64" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
 <h2 style="text-align: center; font-size: 24px;">🚀 Data Science Roadmap</h2>
